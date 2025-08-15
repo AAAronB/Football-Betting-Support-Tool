@@ -26,12 +26,7 @@ A machine learning-powered toolkit for analyzing and supporting football (soccer
    git clone <repo-url>
    cd Football-ML-App
    ```
-2. **Install Python dependencies** (recommended: use a virtual environment):
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *(If `requirements.txt` is missing, see below for common packages.)*
-3. **(Optional) Install Jupyter Notebook:**
+2. **(Optional) Install Jupyter Notebook:**
    ```bash
    pip install notebook
    ```
@@ -58,7 +53,8 @@ pip install pandas numpy scikit-learn matplotlib jupyter selenium
 ```
 
 ## License
-This project is for educational and personal use. Please check data sources for their respective licenses.
+This project is for educational and personal use. 
 
 ## Contact
-For questions or suggestions, please contact the project maintainer. 
+
+For questions or suggestions, please get in contact. 
